@@ -10,4 +10,4 @@ Para ello hubo que cambiar algunos parámetros de la cámara para hacerla compat
 
 Esta configuración puede dar lugar al famoso "motion sickness" según el usuario que lo esté jugando. Para evitar esto habría que implementar una soluciçon más compleja de cámara, que suavice las rotaciones y las transiciones entre rondas.
 
-Al hacer una pequeña prueba en un dispositivo android y usando unas gafas genéricas, se puede comprobar que tras 5 minutos de prueba puede resultar molesto, por lo que es necesaria la mejora anteriormente nombrada.
+Tras hacer una pequeña prueba en un dispositivo android y usando unas gafas genéricas, se puede comprobar que tras 5 minutos de prueba puede resultar molesto, por lo que es necesaria la mejora anteriormente nombrada.
